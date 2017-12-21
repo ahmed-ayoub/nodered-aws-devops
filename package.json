@@ -1,0 +1,22 @@
+{   
+  "name": "nodered-test",
+  "version": "1.0.0",
+  "description": "node-red test app",
+  "main": "",
+  "scripts": {
+      "start": "./node_modules/.bin/node-red -s ./settings.js"
+  },
+  "engines": {
+      "node": "4.x"
+  },
+  "dependencies": {
+      "node-red": "0.17.5",
+      "serialport": "6.0.4",
+      "aws-sdk": "2.171.0",
+      "node-red-contrib-storage-s3": "0.0.4",
+      "when": "3.7.x",
+      "node-red-dashboard" : "2.7.0",
+      "iont-node-red-contrib-aws-iot-hub" : "0.1.17"
+  },
+  "author": "Cequens"
+ }
