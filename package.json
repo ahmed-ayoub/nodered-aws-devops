@@ -18,5 +18,5 @@
       "node-red-dashboard" : "2.7.0",
       "iont-node-red-contrib-aws-iot-hub" : "0.1.17"
   },
-  "author": "Cequens"
+  "author": "Cequens Inc."
  }
